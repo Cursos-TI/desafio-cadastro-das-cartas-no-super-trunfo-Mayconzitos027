@@ -107,5 +107,6 @@ int main()
     printf("Números de Pontos Turísticos: %d\n", pontos_turisticos2);
 
     printf("\n* * * Agora você ja está preparado para começar a jogar Super Trunfo. Junte sua galera e Divirta-se!!! * * *\n \n");
+   
     return 0;
 }
