@@ -103,7 +103,7 @@ int main()
     printf("Estado: %c\n", estado1);
     printf("Código: %c%s\n", estado1, codigo1); // Código conectado conforme comentado a cima.
     printf("Nome da Cidade: %s\n", cidade1);
-    printf("População: %d\n", populacao1);
+    printf("População: %lu\n", populacao1);
     printf("Área: %.2f Km²\n", area1);
     printf("PIB: %.2f bilhões de reais\n", PIB1);
     printf("Números de Pontos Turísticos: %d\n", pontos_turisticos1);
@@ -115,7 +115,7 @@ int main()
     printf("Estado: %c\n", estado2);
     printf("Código: %c%s\n", estado2, codigo2); // Código conectado conforme comentado a cima.
     printf("Nome da Cidade: %s\n", cidade2);
-    printf("População: %d\n", populacao2);
+    printf("População: %lu\n", populacao2);
     printf("Área: %.2f Km²\n", area2);
     printf("PIB: %.2f bilhões de reais\n", PIB2);
     printf("Números de Pontos Turísticos: %d\n", pontos_turisticos2);
